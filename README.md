@@ -1,81 +1,53 @@
-# Komala
+# Hi, I'm Komala 
 
-## About Me
+### Software Engineer | Java | Backend Development
 
-Computer Science Engineering graduate focused on Software Development and Backend Development.
+I'm a Computer Science Engineering graduate focused on building strong software engineering fundamentals and developing backend applications.
 
-I am currently strengthening my skills in Java, Data Structures and Algorithms, Spring Boot, SQL, Python, and REST APIs. I enjoy building applications, solving programming problems, and learning software engineering concepts through practical projects.
+I enjoy learning through practical projects, solving programming problems, and continuously improving my understanding of software development.
 
-## Technical Skills
+###  What I'm Working With
 
-### Programming Languages
+* **Languages:** Java, Python, SQL
+* **Backend:** Spring Boot, REST APIs
+* **Databases:** MySQL, H2
+* **Core:** Data Structures & Algorithms, OOP, Software Engineering Fundamentals
+* **Tools:** Git, GitHub, IntelliJ IDEA, VS Code
 
-* Java
-* Python
-* SQL
-* JavaScript
-* HTML
-* CSS
+###  Projects
 
-### Backend Development
+**User Management Application**
+Web application featuring user management, authentication, admin functionality, dashboard features, and CRUD operations.
+`Angular` `TypeScript`
 
-* Spring Boot
-* REST APIs
-* Node.js
+**AI Agent Workflow Builder**
+Visual workflow builder for creating AI agent workflows with HTTP requests and human approval flows.
+`JavaScript`
 
-### Databases
+**Yes Bank Stock Price Prediction**
+Machine learning project for predicting stock closing prices using historical market data and regression techniques.
+`Python` `Machine Learning` `Jupyter Notebook`
 
-* MySQL
-* H2 Database
+**LabMentrix Internship Projects**
+Data analysis and machine learning projects completed during a Data Science and Machine Learning internship.
+`Python` `Machine Learning` `Jupyter Notebook`
 
-### Tools and Technologies
-
-* Git
-* GitHub
-* IntelliJ IDEA
-* Visual Studio Code
-
-## Projects
-
-### User Management Application
-
-A web application for managing users with authentication, admin functionality, dashboard features, and CRUD operations.
-
-Technologies: Angular, TypeScript
-
-### AI Agent Workflow Builder
-
-A visual workflow builder for creating AI agent workflows with HTTP requests and human approval flows.
-
-Technologies: JavaScript
-
-### Yes Bank Stock Price Prediction
-
-A machine learning project that predicts the closing stock price of Yes Bank using historical stock market data and regression algorithms.
-
-Technologies: Python, Jupyter Notebook, Machine Learning
-
-### LabMentrix Internship Projects
-
-Projects completed during a Data Science and Machine Learning internship, involving data analysis and machine learning workflows.
-
-Technologies: Python, Jupyter Notebook, Machine Learning
-
-## Currently Learning
+###  Currently Learning
 
 * Java
-* Data Structures and Algorithms
+* Data Structures & Algorithms
 * Spring Boot
 * Backend Development
 * SQL
 * REST API Development
-* Software Engineering Fundamentals
+* Software Engineering
 
-## Career Objective
+###  What I'm Building Toward
 
-To begin my career as a Software Engineer and develop strong expertise in Java, backend development, Data Structures and Algorithms, and scalable software applications.
+I'm working toward a career in software engineering, with a focus on **Java backend development**, strong problem-solving skills, and building reliable software applications.
 
-## Connect With Me
+I'm also exploring **AI and Generative AI** and plan to integrate these technologies into future projects.
 
-LinkedIn: https://www.linkedin.com/in/komalap043
-GitHub: https://github.com/komala99
+###  Connect With Me
+
+[LinkedIn](https://www.linkedin.com/in/komalap043) · [GitHub](https://github.com/komala99)
